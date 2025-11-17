@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard AI",
+  "description": "Upload a script to automatically generate a visual storyboard sequence using AI. Also features an integrated AI chatbot for assistance.",
+  "requestFramePermissions": []
+}
